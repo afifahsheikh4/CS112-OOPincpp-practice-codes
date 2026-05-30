@@ -1,7 +1,0 @@
-#ifndef MATHFILEINCLUSIONSECONDARY_H
-#define MATHFILEINCLUSIONSECONDARY_H
-
-int ADD(int a, int b);
-
-#endif
-
